@@ -36,7 +36,7 @@ export default class App extends Component {
       </div>
       <div className="form-group">
         <label>City:</label>
-        <input className="form-group"/>
+        <input className="form-control"/>
       </div>
     </div>
     
